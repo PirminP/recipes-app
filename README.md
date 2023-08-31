@@ -1,7 +1,7 @@
 # Project Recipes App
 
 #### This website...
-* Developed tests using Jest & React Testing Library
+* Developed tests using React, Context API, Hooks & CSS3
 
 ### Instructions
 * To run and start the application locally, clone the project and use the following commands:
