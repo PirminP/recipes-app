@@ -20,4 +20,4 @@
   ```
 
 ## Demonstration
-![To access]()
+![To access](https://github.com/PirminP/recipes-app/blob/main/recipes-app.gif)
