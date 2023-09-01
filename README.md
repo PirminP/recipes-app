@@ -1,6 +1,6 @@
 # Project Recipes App
 
-#### This website...
+#### This web application (group project) contains information about cooking recipes and drinks where you can view, search, filter, favorite & track your preparing progress.
 * Developed tests using React, Context API, Hooks & CSS3
 
 ### Instructions
