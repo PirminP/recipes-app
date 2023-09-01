@@ -20,7 +20,4 @@
   ```
 
 ## Demonstration
-Access: [Click here]()
-
-![To access](https://github.com/PirminP/recipes-app/blob/main/recipes-app-1.png)
-![To access](https://github.com/PirminP/recipes-app/blob/main/recipes-app-2.png)
+![To access]()
